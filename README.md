@@ -7,3 +7,5 @@ To do:
 * Vanilla options
 * Exotic options
 * Embedded options
+
+Implementations are aimed to be done in C++, although prototyping may be done in Matlab or other scripting languages.
